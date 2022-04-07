@@ -3,7 +3,7 @@ using System.Linq;
 using Extras;
 using UnityEngine;
 
-namespace Sherry.DrawRays.Scripts {
+namespace Sherry.CustomScripts {
 
     public class DrawRays : MonoBehaviour {
 
