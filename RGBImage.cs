@@ -3,7 +3,7 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UI {
+namespace Sherry.CustomScripts {
 
     public class RGBImage : MonoBehaviour {
 
