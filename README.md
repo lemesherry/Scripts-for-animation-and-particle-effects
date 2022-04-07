@@ -4,6 +4,8 @@
 
 
 * Draw Rays: 
-```js
-Draw rays script can be used to ray cast in multidirections at once (if you give a 360 value to its direction variable it will raycast from that center point of object to all directions like a ball/circle)
-```
+> `Draw rays` script can be used to ray cast in `multidirections` at once (if you give a `360` value to its direction variable it will raycast from that center point of object to all directions `like a ball/circle`).
+
+* RGB Image:
+> `RGB Image` script can be used to make any `image component` to change its `color in RGB on runtime`.
+
