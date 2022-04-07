@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UI {
+namespace Sherry.CustomScripts {
 
     public class RotateUI : MonoBehaviour {
 
