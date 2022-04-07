@@ -4,7 +4,7 @@ using DG.Tweening;
 using TMPro;
 using UnityEngine;
 
-namespace Extras {
+namespace Sherry.CustomScripts {
 
     public class ScorePopUp : MonoBehaviour {
 
