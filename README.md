@@ -2,6 +2,10 @@
 ## Custom scripts for animation and particle effects in unity, like text pop up and fading, multidirectional raycasting etc...
 
 
+```js
+NOTE: To use any of the scripts animation you must import *dotween* package in unity, incase you don't have that package you can find it on my dotween repository.
+```
+
 
 ### Draw Rays: 
 > `Draw rays` script can be used to ray cast in `multidirections` at once (if you give a `360` value to its direction variable it will raycast from that center point of object to all directions `like a ball/circle`).
