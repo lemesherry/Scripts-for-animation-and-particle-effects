@@ -1,7 +1,6 @@
 using UnityEngine;
-using static Extras.Constants;
 
-namespace Extras {
+namespace Sherry.CustomScripts {
 
     public class Vibrator {
 
@@ -37,4 +36,16 @@ namespace Extras {
 
     }
 
+            
+    public class AndroidSet {
+
+        public const string unityPlayer = "com.unity3d.player.UnityPlayer";
+        public const string currentActivity = "currentActivity";
+        public const string getSystemService = "getSystemService";
+        public const string vibrator = "vibrator";
+        public const string vibrate = "vibrate";
+        public const string cancel = "cancel";
+
+
+    }
 }
