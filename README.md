@@ -17,3 +17,7 @@
 
 ### Scaling UI:
 > `Scaling UI` script can be used to `make object scale in and out with animation`.
+
+### Score PopUp:
+> `Score PopUp` script can be used to `Pop up any text` from a position to upward direction and make it fade away after certain amount of time`.
+
