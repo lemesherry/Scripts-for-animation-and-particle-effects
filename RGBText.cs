@@ -3,7 +3,7 @@ using DG.Tweening;
 using TMPro;
 using UnityEngine;
 
-namespace UI {
+namespace Sherry.CustomScripts {
 
     public class RGBText : MonoBehaviour {
 
