@@ -7,10 +7,13 @@
 > `Draw rays` script can be used to ray cast in `multidirections` at once (if you give a `360` value to its direction variable it will raycast from that center point of object to all directions `like a ball/circle`).
 
 ### RGB Image:
-> `RGB Image` script can be used to `change any Image component's color` in RGB `on runtime`.
+> `RGB Image` script can be used to `change any Image component's color` in RGB.
 
 ### RGB Text:
-> `RGB Text` script can be used to `change any Text mesh pro component's color` in RGB `on runtime`.
+> `RGB Text` script can be used to `change any Text mesh pro component's color` in RGB.
 
 ### Rotate UI:
-> `Rotate UI` script can be used to `rotate any UI element` on runtime.
+> `Rotate UI` script can be used to `rotate any UI element`.
+
+### Scaling UI:
+> `Scaling UI` script can be used to `make object scale in and out with animation`.
