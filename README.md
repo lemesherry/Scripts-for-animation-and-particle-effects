@@ -19,5 +19,7 @@
 > `Scaling UI` script can be used to `make object scale in and out with animation`.
 
 ### Score PopUp:
-> `Score PopUp` script can be used to `Pop up any text` from a position to upward direction and make it fade away after certain amount of time`.
+> `Score PopUp` script can be used to `Pop up any text` from a position to upward direction and make it fade away after certain amount of time.
 
+### Vibrator:
+> `Vibrator` script can be used to have fun with your p**** (just kidding ofcourse), it is used to make `phone vibrate` just reference this script object and call its function to use vibration for `any Android/IOS` at any time.
